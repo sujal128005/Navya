@@ -1,1 +1,27 @@
+import cv2 
+
+camera = "http://192.168.137.75:8080/video"
+cap =cv2.VideoCapture(0,cv2.CAP_DSHOW)
+cap.open(camera)
+
+print(" check===",cap.isOpened())
+fourcc = cv2.VideoWriter_fourcc(*"XVID")
+output = cv2.VideoWriter ("Aryan.mp4",fourcc , 20.0,(640,480))
+
+
+
+
+
+while (cap.isOpened()):
+    ret, frame=cap.read()
+    if ret == True:
+        frame = cv2.resize(frame,(700,480))
+        
+        cv2.imshow('Colorframe',frame)
+        output.write(frame)
+        if cv2.waitKey(1) == ord('q'):
+            break
+cap.release()
+output.release()
+cv2.destroyAllWindows()
 
