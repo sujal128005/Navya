@@ -1,0 +1,18 @@
+import cv2 
+
+cap = cv2.VideoCapture("C:\\Users\\singh\\OneDrive\\2nd semester\\sujals project.mp4")
+
+while True:
+    ret,Frame=cap.read()
+    Frame =cv2.resize(Frame ,(700,450))
+    gray = cv2.cvtColor(Frame,cv2.COLOR_BGR2GRAY)
+    cv2.imshow("Frame",Frame)
+    cv2.imshow("gray",gray)
+    k=cv2.waitKey(25)
+    if k==ord("q"):
+        break
+    
+    
+cap.release()
+cv2.destroyAllWindows()
+
