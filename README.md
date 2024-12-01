@@ -9,4 +9,5 @@ As of now, all teams and their members are in learning phase, going through all 
 Mentor: Dr. Krishnaiah J
 
 Current no. of members: 24
+
 Thanks
