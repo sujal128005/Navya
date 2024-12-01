@@ -7,5 +7,6 @@ OUR CURRENT STAGE:
 As of now, all teams and their members are in learning phase, going through all open sources, research papers, youtube videos and many other materials as provided (or suggested) by our college professors.
 
 Mentor: Dr. Krishnaiah J
+
 Current no. of members: 24
 Thanks
