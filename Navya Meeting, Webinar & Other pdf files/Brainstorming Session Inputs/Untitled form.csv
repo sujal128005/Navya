@@ -1,0 +1,64 @@
+"Timestamp","Username","Team Id:","Member Id","N/BS/Q1: What are your biggest concerns or challenges regarding the ""Navya"" project?  ","N/BS/Q2: What specific areas of autonomous vehicle technology are you most interested in exploring?
+or
+Are there any particular real-world scenarios or edge cases that you think we should focus on?
+
+(To answer both questions mark a for 1st & b for 2nd)","N/BS/Q3. What are your expectations for the brainstorming session? 
+or
+Do you have any specific questions or topics you'd like to discuss?  
+
+(To answer both questions mark a for 1st & b for 2nd)"
+"2024/12/07 7:25:04 am GMT+5:30","124cs0065@iiitk.ac.in","N/CV/229","N/CV/AP/659","To achieve the Complexity of self driving cars  ","a) Sensor Fusion and Reinforcement learning ","a)active participation 
+b) How to make progress fast ? "
+"2024/12/07 7:46:16 am GMT+5:30","524cs0001@iiitk.ac.in","N/CV/229","N/CV/MA/519","I think it is better to start doing "" hands on"" related to our respective area ( Like CV,CS,... )","a) Computer Vision - Image Processing 
+b) I think initially we should focus on running the vehicle in our institute premises. We must identify the challenges involved in it and try to address them. This would be a great learning and good start for our project. ","b) we could take any one challenge involved in implementing the autonomous vehicle in our college ( less traffic conditions ) and think about it."
+"2024/12/07 8:50:48 am GMT+5:30","rishithapulusuganti@gmail.com","N/MB/139","N/MB/PR/369","teamwork","im most interested in simulation ","i want learn more about my field"
+"2024/12/07 9:43:53 am GMT+5:30","123ad0034@iiitk.ac.in","N/CV/229","N/CV/AR/349","There are lot more topics to learn, So it may take a while to start the project implementation/build (Since there is also hectic syllabus for us(AIDS) next semester, I may contribute less time to the project) ","1) CV, matlab","1) Complete progress till now (like a percentage of completion) 
+
+2) I would like to know the progress Matlab team made regarding the model of the vehicle"
+"2024/12/07 12:22:47 pm GMT+5:30","offsujal128005@gmail.com","N/LR/129","N/LR/SN/1239","While we be working on tricycle, I see the issue there. Indeed our plan is to make it 4, but what & how. Design team should brainstorm.","a. I'm interested to see the final Car: ""Nexara9"" running through the campus.
+
+b. Matlab team, ig, is the one we should focus on because simulation I believe is the primary task to get check once our codes & all connections. It requies CS team + Matlab team to work together.","a. Full active participation in the discuss of all members.
+
+b. Design, Development & Troubleshooting (N/DT/049) team members."
+"2024/12/07 1:32:01 pm GMT+5:30","singharyan09b@gmail.com","N/CV/229","099","Consistency ","a - Path Planning and Decision-Making.
+b - heavy rain or snow occurance.","a - No expectation, let see what happens. 
+b - Not any specific topic."
+"2024/12/07 6:03:01 pm GMT+5:30","navyamade152@gmail.com","N/CS/199","N/cs/MN/019","1.Team coordination-the teams within the navya project need to have better communication with each other teams.
+2.Lack of interest-I realised that the teams are showing less interest when it comes to any meeting or discussion that is not related to them.
+3.Webinar- In the webinar's conducted so far i believe everyone were busy making slides but the part of gaining knowledge didn't show up except for a few members. 
+4.Team heads-I guess there is a need of strong communication btw team heads and members which is also i think is lacking right now.","a. I believe control system and lidar are the two things that i am most fascinated about and am most interested to explore.
+
+b. I think we already presented three real world examples:
+1. tesla automonous cars should definitely help us since it is a living model that we can take example of when we are working with our project and other systems as we are not the first to build one we can bring more advancements to our car.
+
+we also have waymo vehicles for pedestrians detections and cruise cars that ease the work of humans by pre mapped destinations.","a. I think the brainstorm session is a bit too early considering the fact of what has been observed in the previous webinars. but it is also helpful to get an idea about wt the teams learned so far.
+so it's better to keep the sessions more general is what i believe a good thing.
+
+b. The questions should be based on existing knowledge of the members.
+which means the level should be different for the team heads and the members.
+For control system:
+we covered the introduction to lidar.
+control system- loop systems and examples.
+feed back mechanism and stability
+pid controllers.
+sensors and actuators.
+the first two topics are strong so questions from those two should me more prominent then the other two topics."
+"2024/12/07 6:32:25 pm GMT+5:30","124cs0006@iiitk.ac.in","N/LR/129","N/LR/JR/069","no full participation from all members","a) as of now i am interested in lidar
+b) the real life edge cases are parking in tight spots and hi-speed maneuverability ","a) figure out how to get more participation from all members and bring the project into full swing
+b) nope"
+"2024/12/07 6:54:34 pm GMT+5:30","124cs0007@iiitk.ac.in","N/LR/129","079","In extreme unfortune, how will our Autonomous vehicle behave if it encounters an accident. (accident may involve the car or it may have just seen an accident on the road)","A. I am interested in Computer Vision, Lidar Technology and learning algorithms
+B. Our autonomous vehicle must be able to understand the signs given by people. sometimes in India, People don't give indicators, they just stick their hand out. our autonomous vehicle must be able to detect it.
+Also, sometimes people fake car accidents by coming in front of the car and try to loot the driver. How will the autonomous vehicle respond to this.
+Also, our autonomous vehicle should also have sound sensors to understand horns or either people yelling.","A. I am expecting a wide range of ways in which each member wants to develop this project
+B. I have an idea. (What if out autonomous vehicle can talk to people for asking routes?) That would be very good because often there might be an error in the location that we want to go or internet may be poor. "
+"2024/12/07 7:14:03 pm GMT+5:30","124cs0057@iiitk.ac.in","N/CV/229","N/CV/VD/579","As I am new to all this, and we have to submit a prototype of the project so soon, therefore it's hard to understand everything in so little time. ","a) Computer vision ","a) To have a productive session and to familiarise ourselves with our roles and responsibilities and to get to know more about the project from our seniors. "
+"2024/12/07 8:39:59 pm GMT+5:30","524me0007@iiitk.ac.in","N/MB/139","5709","lack of experience of team members and not being on campus which is a big reason in slow down of advancement. (for lack of experience everything new comes from no experience so this is not a problem and second problem will be solved in short period of time too)","a- how are we going to combine different aspects of project in one and how are we going to do sensor fusion for this project.
+b- decision making in short amount of time.","a- Anything new to learn math or physics that we need to know about, for project. (to be honest not some big expectations).
+b- how we will control speed of vehicle, it cannot be constant everywhere, like how will we accelerate or deaccelerate?  "
+"2024/12/07 10:28:00 pm GMT+5:30","123me0027@iiitk.ac.in","N/CS/199","N/CS/YA/279","technical complexities, hardware and software integration","Vehicle dynamics","diverse perspectives to generate and refine ideas"
+"2024/12/07 10:50:13 pm GMT+5:30","124ec0013@iiitk.ac.in","N/MB/139","N/MB/CR/1309"," Challenge about NAVYA project is
+Learning about new concepts that I had no idea about before ","Sensor Data processing ","How can we make Navya vehicles safer and reliable for passengers "
+"2024/12/07 10:59:05 pm GMT+5:30","523me0006@iiitk.ac.in","N/CV/229","569","The only challenge I personally facing is that am I able to complete it on time or not!","1st 
+Power transmission ","1st
+I'll expect that there will be a great progress in the further sessions"
+"2024/12/08 5:08:36 am GMT+5:30","123me0008@iiitk.ac.in","N/DT/049","N/DT/AK/1089","As of now, the biggest challenge is the collaborative teamwork and active involvement of all the members of our team.","A) I am most interested in exploring the model designing of our future ""NEXARA9"" car.","As of the current scenario, I expect the attendance of all team heads, which is rare, as seen in any meetings."
