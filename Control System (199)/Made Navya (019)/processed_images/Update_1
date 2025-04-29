@@ -1,0 +1,43 @@
+Date : 29-04-2025
+## Object Detection – Initial Annotation Update
+
+As part of the **Navya Project**, 41 images have been annotated using **Roboflow** for the initial object detection phase. The annotations follow a defined class taxonomy designed to support training for autonomous navigation.
+
+### List of Classes
+*(Final numeric indexing to be confirmed)*
+
+- person  
+- bicycle  
+- car  
+- motorcycle  
+- bus  
+- truck  
+- cat  
+- dog  
+- fire hydrant  
+- parking meter  
+- bird  
+- backpack  
+- umbrella  
+- handbag  
+- suitcase  
+- sports ball  
+- bottle  
+- chair  
+- laptop  
+- cell phone  
+- sink  
+- Static Obstacle  
+- JCB  
+- Trucks  
+- obstacles-environment  
+
+### Objective
+To train a **YOLOv8** model for detecting and classifying navigation-relevant objects in campus environments. This work contributes to the perception system of the Navya autonomous vehicle by enabling it to identify static and dynamic obstacles.
+
+### Dataset Access
+The annotated dataset can be accessed via the following link:
+
+[Download Object Detection Dataset (Google Drive)](https://drive.google.com/file/d/144BFC3V6SSlWBugTMc_pwSF7mBcj8qbP/view?usp=drive_link)
+
+This marks the first formal update in the object detection module of the project.
